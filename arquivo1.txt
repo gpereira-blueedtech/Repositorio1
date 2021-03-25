@@ -2,5 +2,6 @@ Alteracao no arquivo.
 Alteracao 2 no arquivo
 Mais uma alteracao
 
-Mais alterações
-Essas só existem na MASTER
+Essa modificação está acontecendo na rami1
+Ela não interfere em nada na mod do Master.
+
