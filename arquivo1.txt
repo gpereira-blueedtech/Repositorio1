@@ -3,9 +3,6 @@ Alteracao 2 no arquivo
 Mais uma alteracao
 
 Essa modificação está acontecendo na rami1
-Ela não interfere em nada na mod do Master.
-
-qualquer coisa 
-mais uma coisa 
-outro teste na master 
-teste final na master 
+Ela não interfere em nada na mod do Master.alteracao na rami1 
+outra alteracao na rami 1 
+teste final na branch 
